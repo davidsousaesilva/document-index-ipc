@@ -18,7 +18,7 @@ A C client-server application that indexes documents (title, author, path, year,
 
 ## Tech stack
 
-C, POSIX system calls.
+C, system calls.
 
 ## Run locally
 
