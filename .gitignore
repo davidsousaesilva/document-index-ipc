@@ -1,0 +1,22 @@
+# Compiled binaries and object files
+dserver
+dclient
+*.o
+
+# Debug symbols (macOS)
+*.dSYM/
+
+# Runtime FIFOs and request/response artifacts
+fifo*
+request
+response_*
+
+# Persisted index data
+*.dat
+
+# OS files
+.DS_Store
+
+# Editor / IDE
+.idea/
+.vscode/
